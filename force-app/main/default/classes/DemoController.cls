@@ -1,4 +1,4 @@
-//testing pull/push with dx 26feb,2018
+//testing pull/push with dx_V2.0 26feb,2018
 public with sharing class DemoController {
     /**
      * An empty constructor for the testing
